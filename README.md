@@ -7,9 +7,9 @@ Welcome to the **C# DEMOS** repository! This repository is designed to help you 
 ```
 CSharpDemos/
 ├── Basics/
-│   ├── VariablesAndDataTypes/
-│   ├── ControlFlow/
-│   ├── Loops/
+│   ├── 1-10.Simple.Demos/
+│   ├── ProjectDemo/
+│   ├── Variables.Datatypes.Demos/
 ```
 
 ### Basics/
