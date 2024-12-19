@@ -1,0 +1,4 @@
+d:\+DMU - MASTERS\C# PROJECTS\sampleDemo\obj\Debug\net8.0\sampleDemo.GeneratedMSBuildEditorConfig.editorconfig
+d:\+DMU - MASTERS\C# PROJECTS\sampleDemo\obj\Debug\net8.0\sampleDemo.AssemblyInfoInputs.cache
+d:\+DMU - MASTERS\C# PROJECTS\sampleDemo\obj\Debug\net8.0\sampleDemo.AssemblyInfo.cs
+d:\+DMU - MASTERS\C# PROJECTS\sampleDemo\obj\Debug\net8.0\sampleDemo.csproj.CoreCompileInputs.cache
